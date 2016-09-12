@@ -58,11 +58,13 @@
 
 ## 界面截图
 * 项目管理：
-![xdiamond-project.png](img/xdiamond-project.png "")
+ ![xdiamond-project.png](img/xdiamond-project.png)
+
 * Profile管理：
 ![xdiamond-profile.png](img/xdiamond-profile.png "")
 * Config管理：
-![xdiamond-config.png](img/xdiamond-config.png "")
+![xdiamond-config.png](img/xdiamond-config.png)
+
 * 项目依赖关系图：
 ![xdiamond-dependencygraphic.png](img/xdiamond-dependencygraphic.png "")
 * Metrics信息：
